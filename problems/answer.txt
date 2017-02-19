@@ -1,0 +1,8 @@
+
+問題1: git add -u
+
+問題2: git rm -cached ignore.exe
+
+問題3: git clone -b develop --single-branch -depth https://github.com/d-o-n-u-t-s/git-school.git
+
+問題4: git grep 'dog' | xargs sed -i -e 's/dog/cat/g'
